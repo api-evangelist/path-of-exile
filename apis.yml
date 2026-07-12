@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.pathofexile.com/developer/docs
 common:
+  - type: DomainSecurity
+    url: security/path-of-exile-domain-security.yml
   - type: Website
     url: https://www.pathofexile.com/developer/docs
   - type: PublicAPIsListing
