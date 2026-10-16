@@ -1,0 +1,14 @@
+{
+  "repo": "path-of-exile",
+  "feeds": [
+    {
+      "source": "https://www.pathofexile.com/news",
+      "feed_url": "https://www.pathofexile.com/news/rss/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
