@@ -40,7 +40,8 @@ apis:
   - name: Path of Exile
     description: "Path of Exile Game Information"
     humanURL: https://www.pathofexile.com/developer/docs
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
